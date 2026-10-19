@@ -14,4 +14,4 @@ Each game's privacy policy has its own repo, published under this site:
 
 Local layout (`~/Desktop/Games/websites/`): `ismaeljarias.github.io/` (this repo), `<game>/privacy/` (each game's privacy repo), `_archive/` (old copies).
 
-- `blockseed-privacy/`: Block Seed's privacy policy, a folder of this site (no separate repo), live at https://ismaeljarias.github.io/blockseed-privacy/
+- Block Seed's privacy policy: its own repo `Ismaeljarias/blockseed-privacy`, live at https://ismaeljarias.github.io/blockseed-privacy/
