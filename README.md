@@ -11,7 +11,7 @@ Each game's privacy policy has its own repo, published under this site:
 |---|---|---|
 | Port Dynasty: Family Empire | `Ismaeljarias/port-dynasty-privacy` | https://ismaeljarias.github.io/port-dynasty-privacy/ |
 | DadaBoom | `Ismaeljarias/dadaboom-privacy` | https://ismaeljarias.github.io/dadaboom-privacy/ |
+| Block Seed: Puzzle Roguelite | `Ismaeljarias/blockseed-privacy` | https://ismaeljarias.github.io/blockseed-privacy/ |
 
 Local layout (`~/Desktop/Games/websites/`): `ismaeljarias.github.io/` (this repo), `<game>/privacy/` (each game's privacy repo), `_archive/` (old copies).
 
-- Block Seed's privacy policy: its own repo `Ismaeljarias/blockseed-privacy`, live at https://ismaeljarias.github.io/blockseed-privacy/
